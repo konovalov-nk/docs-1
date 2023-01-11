@@ -6,6 +6,11 @@ weight = 5
 
 This chapter explains the installation procedure of KKP into a pre-existing Kubernetes cluster on Amazon Web Services (AWS) using installer.
 
+Typically the installation  of KKP cluster on an a pre-existing Kubernetes cluster would be completed in under 30 minutes and when preparing the Master cluster on AWS the installation process could take upto 2 hours to complete.
+
+This installation requires moderate level of familiarity with AWS/or any cloud services and assumes familiarity with container and Kubernetes technologies, constructs, and configurations
+
+
 ## Terminology
 
 * **User cluster** -- A Kubernetes cluster created and managed by KKP

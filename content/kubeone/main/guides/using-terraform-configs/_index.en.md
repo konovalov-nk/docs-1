@@ -6,7 +6,8 @@ enableToc = true
 
 KubeOne comes with example Terraform configs that can be used to create the
 infrastructure needed for running a conformant, production-grade Kubernetes
-cluster. The example configs are available for all natively supported
+cluster. The provided Terraform configs are for multi-AZ deployment in the supported cloud providers.
+The example configs are available for all natively supported
 providers and can be found on the
 [GitHub under the `examples/terraform`][terraform-configs-github]
 directory. They are also coming along with the binaries when you download a
